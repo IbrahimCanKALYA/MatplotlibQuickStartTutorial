@@ -2,4 +2,4 @@
 Jupyter ortamında hazırlanmış, Matplotlib kütüphanesi için türkçe hızlı başlangıç dökümanı.
 
 Dökümana isterseniz Jupyter editör aracılığıyla kendi bilgisayarınızda yada online olarak bu linkten erişebilirsiz:
-[Numpy](https://github.com/IbrahimCanKALYA/NumpyQuickStartTutorial/blob/master/numpyTutorial.ipynb)
+[Matplotlib](https://github.com/IbrahimCanKALYA/MatplotlibQuickStartTutorial/blob/master/matplotlibTutorial.ipynb)
